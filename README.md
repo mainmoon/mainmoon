@@ -2,6 +2,11 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </header>
 <body>
+ <style>
+  .un{
+      background-color:white;
+  }
+  </style>
  <div>
  
  <i class="devicon-bash-plain"></i>
@@ -14,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="100" height="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="100" height="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100" height="100" />
-  <div background-color=white>
+  <div class="un">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="100" height="100" background-color="white"/>
   </div>
   </div>
