@@ -6,7 +6,7 @@
  
  <i class="devicon-bash-plain"></i>
  <h1>one step </h1>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="100" height="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="100" height="100" />
 </div>
 </body>
  <!---
