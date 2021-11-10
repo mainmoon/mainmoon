@@ -8,9 +8,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="100" height="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="100" height="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100" height="100" />
-  <div class="un">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="100" height="100" background-color="white"/>
-  </div>
   </div>
  <!---
 mainmoon/mainmoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
