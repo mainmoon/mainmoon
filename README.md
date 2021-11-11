@@ -19,7 +19,7 @@
      <img src="https://aleen42.github.io/badges/src/land_rover.svg" />
    </div>
    <div>
-    <div style="width:100%;height:0;padding-bottom:99%;position:relative;"><iframe src="https://giphy.com/embed/970Sr8vpwEbXG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/loop-processing-central-970Sr8vpwEbXG">via GIPHY</a></p>
+  
    </div>
   </div>
  <!---
